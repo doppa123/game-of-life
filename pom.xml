@@ -443,7 +443,7 @@
                             <rulesets>
                                 <ruleset>/pmd-rules.xml</ruleset>
                             </rulesets>
-                            <!-- CPD options -->
+                            <!-- CPD options demo-->
                             <minimumTokens>20</minimumTokens>
                             <ignoreIdentifiers>true</ignoreIdentifiers>
 
